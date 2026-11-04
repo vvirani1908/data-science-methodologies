@@ -42,12 +42,12 @@ README.md
 
 ## Colab and walkthrough links
 
-- CRISP-DM Colab: `[Open Notebook](https://colab.research.google.com/drive/1DDgeE3fEw45dT_HOYgdD238GxjJCXbpR?usp=sharing)`
+- CRISP-DM Colab: [Open Notebook](https://colab.research.google.com/drive/1DDgeE3fEw45dT_HOYgdD238GxjJCXbpR?usp=sharing)
 - CRISP-DM video: `ADD_VIDEO_LINK_HERE`
-- SEMMA Colab: `[Open Notebook](https://colab.research.google.com/drive/1e_ERiw-CmxpthdlFt2pHAxC-aYvq5jh1?usp=sharing)`
+- SEMMA Colab: [Open Notebook](https://colab.research.google.com/drive/1e_ERiw-CmxpthdlFt2pHAxC-aYvq5jh1?usp=sharing)
 - SEMMA video: `ADD_VIDEO_LINK_HERE`
-- KDD Colab: `[Open Notebook](https://colab.research.google.com/drive/1jSSd1c5ClcZmIQOVm8Fn5IQoaas9bUeH?usp=sharing)`
-- KDD video: `ADD_VIDEO_LINK_HERE`
+- KDD Colab: [Open Notebook](https://colab.research.google.com/drive/1jSSd1c5ClcZmIQOVm8Fn5IQoaas9bUeH?usp=sharing)
+- KDD video: ADD_VIDEO_LINK_HERE
 
 ## Reproducibility
 
